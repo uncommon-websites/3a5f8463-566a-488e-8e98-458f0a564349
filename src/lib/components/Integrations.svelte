@@ -5,26 +5,26 @@
 <section class="py-24 bg-white">
   <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
     <div class="mb-4">
-      <span class="text-blue-500 font-medium">Integrations</span>
+      <span class="text-cyan-500 font-medium">Integrations</span>
     </div>
     
-    <h2 class="text-4xl font-bold mb-6">Keep your tools updated, with one click</h2>
+    <h2 class="text-4xl font-bold mb-6">Connect your clone to your workflow</h2>
     
     <p class="text-gray-600 max-w-3xl mx-auto mb-16">
-      Too many tools require you to use them all the time to be useful. Amie works just as well in the background. The integrations with Google and Apple Calendar make sure every meeting gets recorded.
+      Your Digital Mind integrates seamlessly with the platforms you already use. Deploy across WhatsApp, SMS, email, and web chat to reach your audience wherever they are.
       <br><br>
-      The Gmail integration lets us re-create your writing style. To AI-draft your emails just like you wrote it.
+      Sync with your CRM, communication tools, and content platforms. Your clone learns from your existing content and deploys instantly across all channels.
       <br><br>
-      We know that you likely have a system of record already. We've built integrations with Slack, Notion, Hubspot and Pipedrive. So that you can get the summaries there with a few clicks.
+      We've built integrations with the tools coaches and experts rely on. Connect once, and your Digital Mind is available everywhere your audience needs you.
     </p>
     
     <!-- Integration Diagram Mockup -->
     <div class="relative max-w-4xl mx-auto h-[400px] mb-16 flex items-center justify-center">
       <!-- Center Hub -->
-      <div class="w-32 h-32 bg-gradient-to-br from-purple-500 to-pink-500 rounded-3xl shadow-2xl z-10 flex items-center justify-center">
-        <div class="text-white font-bold text-4xl">A</div>
+      <div class="w-32 h-32 bg-gradient-to-br from-teal-500 to-cyan-600 rounded-3xl shadow-2xl z-10 flex items-center justify-center">
+        <div class="text-white font-bold text-4xl">D</div>
       </div>
-      <div class="absolute bottom-28 text-gray-400 font-serif italic text-xl">via AMIE</div>
+      <div class="absolute bottom-28 text-gray-400 font-serif italic text-xl">via DELPHI</div>
       
       <!-- Connections (Simplified with CSS) -->
       <div class="absolute inset-0 flex items-center justify-center">
